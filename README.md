@@ -1,8 +1,7 @@
 # Personal Finance Tracker Dashboard
 
 ## Overview
-This project is a personal finance analytics dashboard focused on tracking income, expenses, and savings over time.  
-The goal is to provide a single, decision-oriented view of financial behavior, not raw transaction logs.
+This project is a personal finance analytics dashboard focused on tracking income, expenses, and savings over time. The goal is to provide a single, decision-oriented view of financial behavior, not raw transaction logs.
 
 The dashboard answers one core question:
 **How effectively is income being converted into savings, and where is money being spent?**
